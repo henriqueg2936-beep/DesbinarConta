@@ -1,0 +1,15 @@
+DESBINAR CONTA — projeto Android visual
+
+Este projeto contém uma tela roxa com campo de License Key e botão visual.
+A autenticação KeyAuth NÃO está implementada e o botão apenas mostra uma mensagem.
+Não insira nem use chaves reais nesta versão demonstrativa.
+
+Como gerar o APK:
+1. Instale o Android Studio em um computador.
+2. Extraia o ZIP.
+3. No Android Studio, escolha Open e selecione a pasta DesbinarConta.
+4. Aguarde a sincronização do Gradle.
+5. Vá em Build > Build Bundle(s) / APK(s) > Build APK(s).
+6. O Android Studio mostrará o local do APK gerado.
+
+Este ZIP é o código-fonte do projeto, não é um APK compilado.
